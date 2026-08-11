@@ -1,9 +1,9 @@
 <h1 align="center">🚀 Hi, I'm Balakrishnan!</h1>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Full%20Stack%20%26%20IoT%20Engineer&fontSize=40&animation=fadeIn" alt="Header Banner" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&height=100&lines=Balakrishnan;Balakrishnan" alt="Typing Banner" />
+  </a>
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/BalaKrishnan02"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="mailto:balakrishnan206k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" /></a>
@@ -60,12 +60,12 @@
 ## 📈 GitHub Analytics & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalaKrishnan02&show_icons=true&theme=radical&rank_icon=github&border_radius=10" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaKrishnan02&layout=compact&theme=radical&border_radius=10" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BalaKrishnan02&show_icons=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BalaKrishnan02&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalaKrishnan02&theme=radical&border_radius=10" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BalaKrishnan02&theme=radical&area=true&hide_border=true" width="97%" alt="Activity Graph" />
 </p>
 
 ---
